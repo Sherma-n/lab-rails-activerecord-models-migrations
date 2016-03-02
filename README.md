@@ -30,7 +30,7 @@ You and the people at Tunr want to add some functionality to your talent managem
   - Change the phone number column to a string
   - Add a downloads column to the song table
   - Rename the phone number column to "cell phone number" in the managers table
-  - Remove the downloads column from the song table as an integer
+  - Remove the downloads column from the song table
   - Add a column to the song table called artist last name
 
 #### Testing
@@ -42,7 +42,8 @@ You and the people at Tunr want to add some functionality to your talent managem
     - Name: Kevin Rox
     - Photo URL: "http://png.clipart.me/graphics/thumbs/144/anime-manga-rock-star-guitar-player_144647441.jpg"
     - Nationality: Italian
-    - Instrument: Guitar, Home Address: 100 Rocks Lane
+    - Instrument: Guitar
+    - Home Address: 100 Rocks Lane
 
   - **Manager**:
 
