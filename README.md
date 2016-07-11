@@ -67,7 +67,7 @@ You and the people at Tunr want to add some functionality to your talent managem
 
 #### Starter code
 
-Use your code from the previous class or fork and clone the [starter-code](starter-code) to get started.
+Fork and Clone this repo and start working
 
 #### Deliverable
 
